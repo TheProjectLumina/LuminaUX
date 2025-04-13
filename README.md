@@ -1,2 +1,2 @@
 # LuminaUX
-a glassmorphic UI library for Lumina Client
+a jetpaclk compose glassmorphic UI library for Lumina Client
